@@ -7,7 +7,7 @@
  * Author URI:      www.gruenderszene.de
  * Text Domain:     gs_wp_cron_wrapper
  * Domain Path:     /languages
- * Version:         0.1.3
+ * Version:         0.1.4
  *
  * @package         Gs_wp_cron_wrapper
  */
