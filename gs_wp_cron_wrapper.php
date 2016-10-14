@@ -5,9 +5,7 @@
  * Description:     This essentially does nothing but provide the wrapper script for cron in the bin folder
  * Author:          Dirk Gustke
  * Author URI:      www.gruenderszene.de
- * Text Domain:     gs_wp_cron_wrapper
- * Domain Path:     /languages
- * Version:         0.1.5
+ * Version:         0.1.6
  *
  * @package         vmpublishing/gs_wp_cron_wrapper
  */
