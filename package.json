@@ -1,7 +1,7 @@
 
 {
   "name": "vmpublishing/gs_wp_cron_wrapper",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "Gruntfile.js",
   "author": "Dirk Gustke",
   "devDependencies": {
