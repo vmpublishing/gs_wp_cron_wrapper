@@ -1,5 +1,5 @@
 {
-  "name": "vmpublishing/gs_categorized_post_export",
+  "name": "vmpublishing/gs_wp_cron_wrapper",
   "type": "wordpress-plugin"
 }
 
