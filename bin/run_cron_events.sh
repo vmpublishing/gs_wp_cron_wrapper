@@ -16,9 +16,9 @@ function in_array() {
 }
 
 
-for i in $(/usr/local/bin/wp cron event list --fields=hook --format=ids); do
+for i in $(/usr/local/bin/wp cron event list --fields=hook --format=ids --quiet); do
   if (! $(in_array excludes $i)); then
-    /usr/local/bin/wp cron event run $i
+    /usr/local/bin/wp cron event run $i --quiet
   fi
 done
 
